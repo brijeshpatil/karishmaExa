@@ -1,0 +1,6 @@
+D:\Brijesh\Karishma\AppForCloud\AppForCloud\obj\Debug\AppForCloud.csprojResolveAssemblyReference.cache
+D:\Brijesh\Karishma\AppForCloud\AppForCloud\bin\AppForCloud.dll.config
+D:\Brijesh\Karishma\AppForCloud\AppForCloud\bin\AppForCloud.dll
+D:\Brijesh\Karishma\AppForCloud\AppForCloud\bin\AppForCloud.pdb
+D:\Brijesh\Karishma\AppForCloud\AppForCloud\obj\Debug\AppForCloud.dll
+D:\Brijesh\Karishma\AppForCloud\AppForCloud\obj\Debug\AppForCloud.pdb
